@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600px" width="600px" version="1.1" viewBox="0 0 600 600">
+  <rect x="0" y="0" width="100%" height="100%" fill="blue" />
+  <path stroke="#000000" stroke-width="0px" fill="#aaaaaa"
+    d="M0,0 l22,0 l0,8 l30 0 l0 -8 l434 0 l0 8 l30 0 l0 -8 l22 0
+       l0 466 l-32 0 l0 92 l-474 0 l0 -92 l-32 0z"
+  />
+  <path stroke="#666666" stroke-width="3px" fill="transparent"
+    d="M80,0 l114,0 l0,84, l-114,0z
+       M250 450 l50 0 l-25 42z" />
+</svg>
