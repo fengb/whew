@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px" viewBox="0 0 256 256">
   <rect x="0" y="0" width="100%" height="100%" fill="#000" />
-  <path id="disc" stroke="#fff" stroke-width="2px" fill="#32396d" d="M48,128 a80,80 0 1,0 160,0 a80,80 0 1,0 -160,0
+  <path id="disc" stroke="#fff" stroke-width="4px" fill="#32396d" d="M48,128 a80,80 0 1,0 160,0 a80,80 0 1,0 -160,0
     M116,128 a12,12 0 1, 1 24,0 a12,12 0 1, 1 -24,0z" />
   <clipPath id="clip">
     <use xlink:href="#disc" />
   </clipPath>
   <g clip-path="url(#clip)">
-  <path fill="#0f0" d="
+  <path fill="#F0EFF4" d="
     M128,128 l-24.25,-14 24.25,-14 24.25,14z
-    m0,-64 l-55.43,32 l17.32,10 38.11,-22 38.11,22 17.32,-10z" />
+    m0,-64 l-55.43,32 l17.32,10 38.11,-22 24.25,14 17.32,-10z" />
 
-  <path fill="#00f" d="
+  <path fill="#969FC9" d="
     M128,128 l-24.25,-14 v28 l24.25,14z
     m-38.11,-22 l-17.32,-10 v64 l55.43,32 v-20 l-38.11,-22z" />
 
-  <path fill="#f00" d="
-    M128,128 v28 l24.25,-14 v-28z
-    m38.11,22 l-38.11,22 v20 l55.43,-32 v-64 l-17.32,10z" />
+  <path fill="#606A8F" d="
+    M128,128
+    m38.11,22 l-38.11,22 v20 l55.43,-32 v-64 l-55.43,32 v28 l24.25,-14 v-8 l13.86,-8z" />
   </g>
 </svg>
