@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 256 256">
   <rect x="0" y="0" width="100%" height="100%" fill="#000" />
-  <path fill="#888" d="M16,38s0,-4 4,-4 h216s4,0 4,4 v134s0,4 -4,4 h-216s-4,0 -4,-4z"/>
-  <path stroke="#666" stroke-width="2" d="M16,34 m0,24 h224 m-224,24h224 m-224,24h224 m-224,24h224 m-224,24h224" />
+  <path fill="#888" d="M16,60s0,-4 4,-4 h216s4,0 4,4 v134s0,4 -4,4 h-216s-4,0 -4,-4z"/>
+  <path stroke="#666" stroke-width="2" d="M16,56 m0,24 h224 m-224,24h224 m-224,24h224 m-224,24h224 m-224,24h224" />
 
-  <circle cx="36" cy="166" r="2" fill="#aaa" stroke="#444" stroke-width="2"/>
-  <circle cx="222" cy="166" r="2" fill="#aaa" stroke="#444" stroke-width="2"/>
+  <circle cx="36" cy="188" r="2" fill="#aaa" stroke="#444" stroke-width="2"/>
+  <circle cx="222" cy="188" r="2" fill="#aaa" stroke="#444" stroke-width="2"/>
 
-  <path fill="#999" d="M50,30s0,-4 4,-4h150s4,0 4,4v146h-158z"/>
-  <path fill="#999" stroke="#555" stroke-width="2" d="M49,34v142 m160,0 v-142"/>
+  <path fill="#999" d="M50,52s0,-4 4,-4h150s4,0 4,4v146h-158z"/>
+  <path stroke="#555" stroke-width="2" d="M49,56v142 m160,0 v-142"/>
 
-  <path fill="#888" stroke="#666" stroke-width="2" d="M58,26v64s0,8 8,8 h126s8,0 8,-8 v-64"/>
-  <path fill="#888" stroke="#666" stroke-width="2" d="M58,176v-52s0,-8, 8,-8 h126s8,0 8,8 v52"/>
+  <path fill="#888" stroke="#666" stroke-width="2" d="M58,48v64s0,8 8,8 h126s8,0 8,-8 v-64"/>
+  <path fill="#888" stroke="#666" stroke-width="2" d="M58,198v-52s0,-8, 8,-8 h126s8,0 8,8 v52"/>
 
-  <path stroke="#666" stroke-width="2" d="M106,116v36 m46,0v-36"/>
+  <path stroke="#666" stroke-width="2" d="M106,138v36 m46,0v-36"/>
 </svg>
